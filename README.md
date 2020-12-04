@@ -1,1 +1,1 @@
-# learn_python
+# This project is used to  practiced python code.
